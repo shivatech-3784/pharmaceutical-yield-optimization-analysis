@@ -1,4 +1,4 @@
-Project Summary
+# Project Summary
 This project demonstrates the application of machine learning to optimize a pharmaceutical manufacturing process. By analyzing historical batch data, a predictive model was developed to forecast final product yield and identify the most influential process parameters.
 
 # Methodology
@@ -7,7 +7,8 @@ Data Simulation: A synthetic dataset was created to mimic real-world manufacturi
 # Exploratory Analysis:
 Data visualization was used to identify correlations and relationships between process parameters and the final yield.
 
-# Model Building: A Random Forest Regressor model was trained to predict the yield percentage based on the process parameters.
+# Model Buildin:  
+A Random Forest Regressor model was trained to predict the yield percentage based on the process parameters.
 
 # Key Findings & Model Performance
 The predictive model achieved strong performance, with an R-squared (R 2 ) of 0.82 and a Mean Absolute Error (MAE) of 1.78%. This means the model can explain 82% of the variance in the yield and is, on average, within 1.78 percentage points of the actual yield.
